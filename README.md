@@ -5,7 +5,7 @@ We have other [repositories](https://github.com/orgs/EddieHubCommunity/repositor
 
 ---
 
-# Hacktoberfest
+## Hacktoberfest
 
 What is it? Click on the poster below to watch the video for more details 📽
 
@@ -13,13 +13,13 @@ What is it? Click on the poster below to watch the video for more details 📽
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.1%20original-0927f5.svg)](CODE_OF_CONDUCT.md) [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/EddieHubCommunity/hacktoberfest-practice)
 
-# Hacktoberfest Practice Pull Requests
+## Hacktoberfest Practice Pull Requests
 
 Repository for you to raise a Pull Request to **practice** open-source! 🎉
 
-## Add your name to the alphabetical list and, optionally, a link to your GitHub account (in alphabetical order below your letter too)
+### Add your name to the alphabetical list and, optionally, a link to your GitHub account (in alphabetical order below your letter too)
 
-## Option 1. Complete this process in Github (in your browser)
+### Option 1. Complete this process in Github (in your browser)
 
 ```mermaid
 flowchart LR
@@ -53,7 +53,7 @@ flowchart LR
 
 You can ask questions by raising an [issue](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/new).
 
-## Option 2. Complete this process on your computer (locally)
+### Option 2. Complete this process on your computer (locally)
 
 - Fork the project:
   Click the gray `Fork` button in the top right of this page. This creates _your_ copy of the project and saves it as a new repository in your github account
@@ -595,6 +595,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Edward Vielmetti](https://github.com/vielmetti)
   - [Efereyan Karen Simisola](https://github.com/KarenEfereyan)
   - [Emi Gomez](https://github.com/emigl)
+  - [Emmanuel Obiechina](https://github.com/chibuike-19)
   - [Emmy Steven](https://github.com/emmysteven)
   - [Enn Dee](https://github.com/enn-dee)
   - [Eric Thomas D. Cabigting](https://github.com/ecabigting)
@@ -826,6 +827,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Kimberly Rodriguez](https://github.com/kimmiethecoder)
   - [Kirtan Chandak](https://github.com/kirtanchandak)
   - [Kirti Jain](https://github.com/kirtijain627)
+  - [Kirtiraj Thakor](https://github.com/kirtiraj22)
   - [Kohei Leung](https://github.com/kohei0802)
   - [Kotaprolu Hemanth](https://github.com/hemanthkotaprolu)
   - [Krish](https://github.com/krishdevdb)
@@ -1031,6 +1033,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 - ### **P**
 
   - [Pablo Lorenzo](https://github.com/Ll2NZ)
+  - [Paritosh Singh](https://github.com/proparitoshsingh)
   - [Parth Gupta](https://github.com/parth-gpt)
   - [Parthiv Sarma](https://github.com/sarmaparthiv)
   - [Patel Prabhu Teja](https://github.com/patelprabhuteja)
